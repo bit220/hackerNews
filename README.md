@@ -1,6 +1,6 @@
 ## How to start app
 
-###`live demo`
+## live demo
 https://chipper-stroopwafel-5fbde8.netlify.app/
 
 ### `npm install`
