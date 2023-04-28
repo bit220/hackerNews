@@ -1,7 +1,8 @@
-## How to start app
-
 ## live demo
 https://chipper-stroopwafel-5fbde8.netlify.app/
+
+
+## How to start app
 
 ### `npm install`
 start by running npm install inside the project folder
