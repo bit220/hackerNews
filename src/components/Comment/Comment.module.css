@@ -1,0 +1,48 @@
+.comment {
+    max-width: 700px;
+}
+.info {
+    display: inline-flex;
+    padding: 5px 10px;
+    align-items: baseline;
+    margin-bottom: 10px;
+    color: teal;
+    box-shadow: 0 0 2px black;
+    border-radius: 5px;
+}
+.author {
+    margin-right: 10px;
+    font-size: 17px;
+}
+.date {
+    font-size: 13px;
+}
+.commentText {
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+.replies {
+    display: flex;
+    align-items: start;
+    margin-top: 10px;
+}
+.repliesBtn {
+    cursor: pointer;
+    display: flex;
+    padding: 3px;
+    background: lightcoral;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.repliesBtn:hover {
+    opacity: .8;
+}
+.repliesBtn.active {
+    background: olive;
+}
+.repliesNumber {
+    margin-left: 5px;
+}
